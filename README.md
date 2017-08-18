@@ -36,7 +36,7 @@ def upload_qiniu(path):
 print upload_qiniu(sys.argv[1])
 ```
 shell 脚本：
-```
+```bash
 #!/bin/bash
 
 #获取当前系统时间作为文件名
